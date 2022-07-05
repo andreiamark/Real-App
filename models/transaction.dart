@@ -13,5 +13,5 @@
       required this.amount,
       required this.date
     });
-  }
+  } //Transaction
 
